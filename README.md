@@ -1,0 +1,2 @@
+# How-long-until-Klay-Thompson-reached-his-peak-performance-again
+On June 13 2019, Klay Thompson, one of the best player in NBA had a terrible injury and had to spend 2 years off-court to recover. Until Jan 9 2022, he returned and the biggest question was can he be as great as he used to be. According to his performance after he return (30 games), we want to analyze and predict whether he can be the great old Klay again.
